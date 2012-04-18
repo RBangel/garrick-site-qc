@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background	background-color: hex"
+			],
+			[
+				"margin",
+				"margin	margin-left: length"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"dem",
+				"demoreel"
+			],
+			[
+				"demoree",
+				"demoreel_dict"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"con",
+				"contactInfo"
+			],
+			[
+				"a",
+				"ModelAdmin"
+			],
+			[
+				"data",
+				"dataconn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Twitter-Bootstrap.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lpack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/falornan/develop/sites/garrick.com/index.html",
+		"/Users/falornan/develop/sites/snaphsv/less/mixins.less",
+		"/Users/falornan/develop/sites/snaphsv/less/bootstrap.less",
+		"/Users/falornan/develop/sites/snaphsv/less/app.less",
+		"/Users/falornan/develop/sites/snaphsv/index.html",
+		"/Users/falornan/develop/sites/snaphsv/less/variables.less",
+		"/Users/falornan/develop/sites/snaphsv/less/grid.less",
+		"/Users/falornan/develop/sites/snaphsv/less/scaffolding.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/dropdowns.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/breadcrumbs.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/navs.less",
+		"/Users/falornan/develop/sites/snaphsv/css/app.less",
+		"/Users/falornan/develop/sites/snaphsv/css/bootstrap.less",
+		"/Users/falornan/develop/sites/snaphsv/category_list.txt",
+		"/Users/falornan/develop/sites/snaphsv/css/variables.less",
+		"/Users/falornan/develop/sites/snaphsv/css/mixins.less",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/falornan/develop/sites/snaphsv/css/grid.less",
+		"/Users/falornan/develop/sites/snaphsv/css/layouts.less",
+		"/Users/falornan/develop/sites/snaphsv/css/scaffolding.less",
+		"/Users/falornan/develop/sites/snaphsv/css/bootstrap.css",
+		"/Users/falornan/develop/sites/garrick.com/css/less/utilities.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/hero-unit.less",
+		"/Users/falornan/develop/sites/snaphsv/css/thumbnails.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/sprites.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/code.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/type.less",
+		"/Users/falornan/develop/thirdparty/sublime-text-2-plugins/lessc/lessc.py",
+		"/Users/falornan/develop/thirdparty/sublime-text-2-plugins/lessc/lessc_opts.py",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/Twitter-Bootstrap.sublime-build",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/LESS-build/LESS.sublime-build",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/garrick-less.sublime-build",
+		"/Users/falornan/develop/sites/garrick.com/css/less/app.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/bootstrap.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/scaffolding.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/mixins.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/layouts.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/wells.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/reset.less",
+		"/Users/falornan/develop/sites/garrick.com/css/less/variables.less",
+		"/Users/falornan/develop/sites/garrick.com/build-bootstrap.sh",
+		"/Users/falornan/develop/sites/garrick.com/js/script.js",
+		"/Users/falornan/develop/sites/garrick.com/js/plugins.js",
+		"/Users/falornan/develop/sites/garrick.com/css/app.css",
+		"/Users/falornan/Downloads/BizAppTutorial/GridViewController.m",
+		"/Users/falornan/develop/andrewbangel/media/css/portfolio.css",
+		"/Users/falornan/develop/andrewbangel/templates/index.html",
+		"/Volumes/falornan/Temp/minecraft_server",
+		"/Users/falornan/develop/andrewbangel/contact/models.py",
+		"/Users/falornan/develop/andrewbangel/demoreel/models.py",
+		"/Users/falornan/develop/andrewbangel/works/models.py",
+		"/Users/falornan/develop/andrewbangel/standards/standards.py",
+		"/Users/falornan/develop/andrewbangel/standards/__init__.py",
+		"/Users/falornan/develop/andrewbangel/contact/templatetags/contact_tags.py",
+		"/Users/falornan/develop/andrewbangel/demoreel/templatetags/demoreel_tags.py",
+		"/Users/falornan/develop/andrewbangel/works/templatetags/works_tags.py",
+		"/Users/falornan/develop/andrewbangel/works/admin.py",
+		"/Users/falornan/develop/andrewbangel/templates/demoreel.html",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Users/falornan/develop/andrewbangel/contact/admin.py",
+		"/Users/falornan/develop/andrewbangel/demoreel/admin.py",
+		"/Users/falornan/develop/andrewbangel/templates/works.html",
+		"/Users/falornan/develop/andrewbangel/settings.py",
+		"/Users/falornan/develop/andrewbangel/works/templatetags/demoreel_tags.py",
+		"/Users/falornan/develop/andrewbangel/templates/contact.html",
+		"/Users/falornan/develop/andrewbangel/main/views.py",
+		"/Users/falornan/develop/andrewbangel/main/models.py",
+		"/Users/falornan/Dropbox/dev/gcookbook/cookbook.py",
+		"/Users/falornan/develop/sc2builds/urls.py",
+		"/Users/falornan/develop/sc2builds/settings.py",
+		"/Users/falornan/Dropbox/dev/gcookbook/common/data.py",
+		"/Users/falornan/develop/sc2builds/builds/models.py",
+		"/Users/falornan/Dropbox/dev/gcookbook/datamanager.py",
+		"/Users/falornan/Dropbox/dev/gcookbook/common.py",
+		"/Users/falornan/develop/budgeted/financial_register/category.py",
+		"/Users/falornan/develop/garrick.com/index.html",
+		"/Users/falornan/develop/garrick.com/css/less/app.less",
+		"/Users/falornan/develop/test-h5bp/index.html",
+		"/Users/falornan/develop/garrick.com/css/less/utilities.less",
+		"/Users/falornan/develop/garrick.com/package.json",
+		"/Users/falornan/develop/garrick.com/build-bootstrap.sh",
+		"/Users/falornan/develop/garrick.com/node_modules/less/package.json",
+		"/Users/falornan/develop/garrick.com/css/less/labels.less",
+		"/Users/falornan/develop/garrick.com/css/less/bootstrap.less",
+		"/Users/falornan/develop/garrick.com/css/app.css",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/falornan/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*",
+			"worlds_location",
+			"minimap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
