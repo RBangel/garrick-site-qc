@@ -43,14 +43,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/Twitter-Bootstrap.sublime-build",
 	"command_palette":
@@ -88,6 +80,8 @@
 	},
 	"file_history":
 	[
+		"/Users/falornan/develop/sites/garrick/README.md",
+		"/Users/falornan/develop/sites/garrick/garrick.com/index.html",
 		"/Users/falornan/develop/sites/garrick.com/index.html",
 		"/Users/falornan/develop/sites/snaphsv/less/mixins.less",
 		"/Users/falornan/develop/sites/snaphsv/less/bootstrap.less",
@@ -196,6 +190,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
+			"\"js/",
 			"*",
 			"worlds_location",
 			"minimap"
@@ -206,6 +202,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"scripts/"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -216,35 +213,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -281,7 +251,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
